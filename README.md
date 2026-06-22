@@ -307,3 +307,4 @@ Gelecek fazlarda hedeflenen geliştirmeler:
 **Hazırlayan: RadmelaSub
 
 </div>
+English= https://github.com/radmela5461/Use-the-runtipi-as-a-server-on-your-own-computer-English/tree/main
