@@ -304,7 +304,7 @@ Gelecek fazlarda hedeflenen geliştirmeler:
 
 ### 📌 Bu proje, bir "staj defteri" değil; bir mühendislik yolculuğunun belgesidir.
 
-**Hazırlayan: RadmelaSub
+**Hazırlayan: RadmelaSub**
 
 </div>
 English= https://github.com/radmela5461/Use-the-runtipi-as-a-server-on-your-own-computer-English/tree/main
