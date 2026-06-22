@@ -12,7 +12,7 @@
 
 ## 👤 Proje Sahibi
 
-**Alemdar** — 19 günlük staj programı kapsamında, geleneksel "gözlem defteri" formatını terk ederek; *Altyapı Mühendisliği (Infrastructure Engineering)*, *Ağ Mimarisi (Network Architecture)* ve *Site Reliability Engineering (SRE)* disiplinlerini bir araya getiren uçtan uca bir self-hosted ekosistem inşa etmiştir.
+**RadmelaSub** — 19 günlük staj programı kapsamında, geleneksel "gözlem defteri" formatını terk ederek; *Altyapı Mühendisliği (Infrastructure Engineering)*, *Ağ Mimarisi (Network Architecture)* ve *Site Reliability Engineering (SRE)* disiplinlerini bir araya getiren uçtan uca bir self-hosted ekosistem inşa etmiştir.
 
 ---
 
